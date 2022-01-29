@@ -1,3 +1,1 @@
-# chat_bot
-
-This a chat bot developed by django Channels
+https://channels.readthedocs.io/en/stable/
