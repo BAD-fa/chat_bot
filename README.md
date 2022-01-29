@@ -1,3 +1,3 @@
-2# chat_bot
+# chat_bot
 
 This a chat bot developed by django Channels
